@@ -17,6 +17,7 @@ import java.util.Iterator;
 
 /**
  * Created by Atakan on 23.05.2023.
+ */
 public class Analizapp {
     public static void main(String[] args) {
 
